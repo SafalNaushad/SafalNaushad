@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SafalNaushad
+- 👋 Hi, I’m Safal Naushad
 - 👀 I’m interested in developing and designing
 - 🌱 I’m currently learning masters of computer science
 - ⚡ In my free time, I solve problems and read tech articles.
